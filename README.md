@@ -22,4 +22,4 @@
 
 <br>
 
-<ul><li>Given repositories can provide insight into familiarity with other technologies.</li></ul>
+<ul><li>Given repositories provide insight into the technologies I am familiar with.</li></ul>
