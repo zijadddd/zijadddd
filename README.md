@@ -7,7 +7,7 @@
 <ul>
   <li>Advanced programming techniques with an object-oriented approach</li>
   <li>Basics of frontend web development</li>
-  <li>How to make full stack web application using Spring boot framework</li>
+  <li>How to make full stack web application</li>
   <li>How to build WEB APIs</li>
   <li>How to use Entity framework</li>
   <li>Relational databases</li>
