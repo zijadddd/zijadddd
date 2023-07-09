@@ -18,7 +18,6 @@
 <div display="flex">
   <img src="https://skillicons.dev/icons?i=cs" width="50px" height="47px" />
   <img src="https://skillicons.dev/icons?i=dotnet" width="50px" height="47px" />
-  <img src="https://i.ibb.co/0Jncmsy/asp-net-logo.png" display="inline" width="47px" height="47px" />
   <img src="https://skillicons.dev/icons?i=react" width="50px" height="47px" />
 </div>
 
