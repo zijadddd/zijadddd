@@ -16,7 +16,6 @@
 ## Technologies I'm currently learning
 
 <div display="flex">
-  <img src="https://skillicons.dev/icons?i=cs" width="50px" height="47px" />
   <img src="https://skillicons.dev/icons?i=dotnet" width="50px" height="47px" />
   <img src="https://skillicons.dev/icons?i=react" width="50px" height="47px" />
 </div>
