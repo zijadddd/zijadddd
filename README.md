@@ -12,14 +12,3 @@
   <li>How to build WEB APIs</li>
   <li>Relational databases</li>
 </ul>
-
-## Technologies I'm currently learning
-
-<div display="flex">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50px" height="47px" />
-  <img src="https://skillicons.dev/icons?i=angular" width="50px" height="47px" />
-</div>
-
-<br>
-
-<ul><li>Given repositories provide insight into the technologies I am familiar with.</li></ul>
