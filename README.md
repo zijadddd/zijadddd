@@ -12,3 +12,14 @@
   <li>How to build WEB APIs</li>
   <li>Relational databases</li>
 </ul>
+
+## Technologies I'm currently learning
+
+<div display="flex">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50px" height="47px" />
+  <img src="https://skillicons.dev/icons?i=angular" width="50px" height="47px" />
+</div>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zijadddd&layout=compact&theme=dark)
