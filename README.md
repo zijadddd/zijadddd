@@ -11,6 +11,7 @@
   <li>How to make mobile application</li>
   <li>How to build WEB APIs</li>
   <li>Relational databases</li>
+  <li>MVC and MVVM design patterns</li>
 </ul>
 
 ## Technologies I'm currently learning
