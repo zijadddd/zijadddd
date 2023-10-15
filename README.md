@@ -1,6 +1,6 @@
 # Hi there, I'm Zijad 👋
 
-<p> I successfully defended my graduation thesis at the Polytechnic Faculty in Zenica and obtained the title of Software Engineer. These studies enabled me to understand advanced concepts of programming and everything else that is necessary for a good start in the Information Technology sector. I have a desire to become professional software developer.</p>
+<p> I successfully defended my graduation thesis at the Polytechnic Faculty in Zenica and obtained the title of Software Engineer. These studies enabled me to understand advanced concepts of programming and everything else that is necessary for a good start in the Information Technology sector. Based on that, I have a desire to become a professional in software development using .NET and Angular technologies.</p>
 
 ## What have I learned so far
 
