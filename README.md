@@ -18,6 +18,7 @@
 <div display="flex">
   <img src="https://skillicons.dev/icons?i=react" width="50px" height="47px" />
   <img src="https://skillicons.dev/icons?i=wordpress" width="50px" height="47px" />
+  <img src="https://skillicons.dev/icons?i=webflow" width="50px" height="47px" />
 </div>
 
 <br>
