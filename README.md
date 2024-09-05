@@ -2,6 +2,8 @@
 
 <p> I successfully graduated from the Polytechnic faculty in Zenica, department of Software Engineering. These studies enabled me to understand advanced concepts of programming and everything else that is necessary for a good start in the Information Technology sector. Based on that, I have a desire to become a professional in software development.</p>
 
+<b>[IN PROGRESS]</b>&nbsp;<a href="https://zijad-portfolio.webflow.io/" target=”_blank”>Portfolio</a>
+
 ## What have I learned so far
 
 <ul>
