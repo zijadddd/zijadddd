@@ -8,7 +8,7 @@
 
 <ul>
   <li>Advanced programming techniques with an object-oriented approach</li>
-  <li>Basics of frontend web development</li>
+  <li>Frontend Development using Angular and Webflow</li>
   <li>How to make full stack web application</li>
   <li>How to make mobile application</li>
   <li>How to build WEB APIs</li>
